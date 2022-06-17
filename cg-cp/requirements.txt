@@ -1,5 +1,5 @@
 matplotlib==2.0.2
-numpy==1.13.0
+numpy==1.21.0
 NURBS-Python==2.3.6
 PyOpenGL==3.1.0
 PyOpenGL-accelerate==3.1.0
